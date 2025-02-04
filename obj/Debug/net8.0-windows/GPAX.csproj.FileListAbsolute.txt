@@ -1,0 +1,17 @@
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\bin\Debug\net8.0-windows\GPAX.exe
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\bin\Debug\net8.0-windows\GPAX.deps.json
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\bin\Debug\net8.0-windows\GPAX.runtimeconfig.json
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\bin\Debug\net8.0-windows\GPAX.dll
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\bin\Debug\net8.0-windows\GPAX.pdb
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.Form1.resources
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.csproj.GenerateResource.cache
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.GeneratedMSBuildEditorConfig.editorconfig
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.AssemblyInfoInputs.cache
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.AssemblyInfo.cs
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.csproj.CoreCompileInputs.cache
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.sourcelink.json
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.dll
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\refint\GPAX.dll
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.pdb
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\GPAX.genruntimeconfig.cache
+D:\book's oop\thanakon-helloworld-oop-lab\GPAX\obj\Debug\net8.0-windows\ref\GPAX.dll
